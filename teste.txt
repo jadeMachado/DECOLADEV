@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+TESTE
+=======
+"Olá, meu é Mayra"
+>>>>>>> 20cd0c54e0ba77198efe7dbba9eff0fd6a04e6c2
