@@ -8,4 +8,4 @@
 2 - Empatia<br>
 3 - Resiliência<br>
 4 - Determinação<br>
-5 - Objetividade<br>
+5 - Comprometimento<br>
